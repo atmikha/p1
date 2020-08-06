@@ -1,0 +1,37 @@
+body {
+    background-color: aqua;
+}
+
+img {
+    width: 40%;
+    height: 40%;
+
+
+
+}
+
+.intro {
+    display: flex;
+}
+
+.intro {
+    font-size: medium;
+    font-family: sans-serif;
+    display: flex;
+}
+
+.dir {
+    flex-direction: column;
+    text-align: center;
+    background-color: cadetblue;
+}
+
+.intro-colors {
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    background-color: antiquewhite;
+}
